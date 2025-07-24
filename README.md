@@ -15,12 +15,14 @@
 
     [기능설명]
     
-             해당 프로젝트 내의 쓰기 가능한 폴더의 위치(Application.persistentDataPath)에서 Json 파일 조회 및 삭제 기능 지원
+             해당 프로젝트 내의 쓰기 가능한 폴더의 위치
+             (Application.persistentDataPath)에서 Json 파일 조회 및 삭제 기능 지원
     
 
     [사용방법]
     
-          1. Open Folder - 프로젝트에 연결된 Application.persistentDataPath의 위치로 탐색기(폴더)를 오픈
+          1. Open Folder - 프로젝트에 연결된 Application.persistentDataPath의 위치로 
+                           탐색기(폴더)를 오픈
     
           2. Refresh Json File List - Json 파일들을 새로고침 및 재 조회
 
